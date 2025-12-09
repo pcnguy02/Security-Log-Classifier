@@ -4,7 +4,7 @@ import re
 # stored_logs = []
 
 records = [
-    {"username": "rgilardi0", "ip": "224.187.190.102", "result": "FAILURE"},
+    {"username": "rgilardi0", "ip": "224.187.190.102", "result": "FAILURE"}, #not real btw lol 
     {"username": "dwildin1", "ip": "239.238.162.240", "result": "SUCCESS"},
     {"username": "kughi2", "ip": "86.191.0.119", "result": "FAILURE"},
     {"username": "skopfer3", "ip": "111.144.93.1", "result": "FAILURE"},
